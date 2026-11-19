@@ -1,3 +1,5 @@
-/dbt_training_p1.zip
-/logs
-/waibhav_venv
+
+target/
+dbt_packages/
+logs/
+.env
