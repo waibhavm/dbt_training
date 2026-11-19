@@ -1,0 +1,201 @@
+product_id,product_name,category,brand,unit_price_inr,stock_quantity,supplier_id,launch_date,is_active,rating
+PRD0001,NovaTech Clothing Item 001,Clothing,Everyday Co.,39116.6,735,SUP031,2026-02-08,False,3.4
+PRD0002,Everyday Co. Beauty Item 002,Beauty,PureGlow,9071.81,653,SUP039,2022-06-16,True,4.7
+PRD0003,NovaTech Sports Item 003,Sports,Vertex,26517.67,1196,SUP015,2021-10-15,True,3.1
+PRD0004,PureGlow Clothing Item 004,Clothing,NovaTech,38225.08,449,SUP037,2024-05-09,True,4.8
+PRD0005,BrightLeaf Books Item 005,Books,PeakFit,29665.72,1428,SUP023,2026-08-20,True,4.3
+PRD0006,BrightLeaf Beauty Item 006,Beauty,PeakFit,41850.17,1008,SUP035,2023-06-19,True,3.7
+PRD0007,NovaTech Home Item 007,Home & Kitchen,PeakFit,30121.97,40,SUP034,2025-05-11,True,3.3
+PRD0008,BrightLeaf Clothing Item 008,Clothing,Aster,35874.19,662,SUP004,2020-03-30,True,4.0
+PRD0009,UrbanNest Books Item 009,Books,Aster,48030.88,765,SUP026,2026-07-28,True,3.3
+PRD0010,BrightLeaf Beauty Item 010,Beauty,BrightLeaf,36643.37,894,SUP032,2023-07-23,True,4.3
+PRD0011,PeakFit Beauty Item 011,Beauty,BrightLeaf,18980.37,1410,SUP019,2021-06-05,True,4.3
+PRD0012,NovaTech Toys Item 012,Toys,BrightLeaf,30158.19,1252,SUP015,2026-05-05,True,4.8
+PRD0013,Aster Books Item 013,Books,UrbanNest,11975.0,654,SUP011,2020-12-29,True,3.6
+PRD0014,PeakFit Sports Item 014,Sports,PeakFit,34688.49,717,SUP017,2021-03-18,True,2.6
+PRD0015,Everyday Co. Office Item 015,Office Supplies,BrightLeaf,44238.14,1009,SUP025,2023-12-09,False,2.8
+PRD0016,PeakFit Office Item 016,Office Supplies,BrightLeaf,22618.24,68,SUP019,2020-03-23,True,3.2
+PRD0017,UrbanNest Home Item 017,Home & Kitchen,Aster,8587.25,768,SUP011,2020-11-03,True,3.3
+PRD0018,NovaTech Office Item 018,Office Supplies,Everyday Co.,47126.87,337,SUP039,2024-11-13,True,2.6
+PRD0019,PeakFit Beauty Item 019,Beauty,PeakFit,20522.07,1134,SUP035,2022-12-22,True,3.2
+PRD0020,NovaTech Home Item 020,Home & Kitchen,Everyday Co.,28630.31,1005,SUP010,2020-08-11,True,2.5
+PRD0021,PureGlow Home Item 021,Home & Kitchen,Vertex,10062.77,52,SUP014,2021-11-30,True,4.9
+PRD0022,UrbanNest Office Item 022,Office Supplies,PureGlow,39264.34,964,SUP032,2022-12-21,True,4.1
+PRD0023,BrightLeaf Toys Item 023,Toys,Aster,44285.09,756,SUP012,2024-12-30,True,3.2
+PRD0024,PureGlow Office Item 024,Office Supplies,PeakFit,41869.23,1155,SUP004,2021-09-11,True,2.7
+PRD0025,Everyday Co. Beauty Item 025,Beauty,PeakFit,27723.74,792,SUP034,2024-09-10,False,3.9
+PRD0026,Vertex Clothing Item 026,Clothing,PureGlow,4038.86,1462,SUP003,2025-08-18,True,2.8
+PRD0027,BrightLeaf Office Item 027,Office Supplies,BrightLeaf,48610.03,394,SUP009,2020-06-23,False,2.7
+PRD0028,PeakFit Toys Item 028,Toys,BrightLeaf,41721.0,528,SUP021,2020-10-01,True,3.5
+PRD0029,Aster Toys Item 029,Toys,PureGlow,26031.44,25,SUP040,2026-08-03,False,2.8
+PRD0030,BrightLeaf Books Item 030,Books,UrbanNest,46252.92,1152,SUP007,2023-03-17,True,4.7
+PRD0031,Everyday Co. Sports Item 031,Sports,Vertex,28642.96,968,SUP003,2021-12-06,True,3.5
+PRD0032,NovaTech Toys Item 032,Toys,Everyday Co.,44488.75,678,SUP016,2020-07-20,False,4.8
+PRD0033,NovaTech Beauty Item 033,Beauty,Aster,40886.56,620,SUP020,2023-02-22,False,4.6
+PRD0034,PeakFit Home Item 034,Home & Kitchen,BrightLeaf,15092.97,907,SUP021,2023-01-08,False,4.0
+PRD0035,PeakFit Home Item 035,Home & Kitchen,Vertex,10647.39,833,SUP032,2025-10-16,True,4.6
+PRD0036,UrbanNest Books Item 036,Books,PureGlow,35506.51,826,SUP009,2025-11-17,True,2.9
+PRD0037,NovaTech Clothing Item 037,Clothing,PeakFit,1749.25,103,SUP024,2022-03-26,True,3.4
+PRD0038,Everyday Co. Office Item 038,Office Supplies,UrbanNest,34089.6,495,SUP024,2025-06-25,False,2.9
+PRD0039,Aster Office Item 039,Office Supplies,Aster,8258.33,529,SUP006,2023-03-13,True,3.5
+PRD0040,PeakFit Books Item 040,Books,PeakFit,32403.26,1387,SUP014,2023-01-07,False,3.8
+PRD0041,Vertex Electronics Item 041,Electronics,BrightLeaf,32402.84,1231,SUP001,2022-07-05,True,4.0
+PRD0042,PureGlow Sports Item 042,Sports,Everyday Co.,44783.6,714,SUP030,2022-10-29,True,3.7
+PRD0043,UrbanNest Toys Item 043,Toys,NovaTech,25623.53,1356,SUP024,2026-04-18,True,3.2
+PRD0044,Vertex Home Item 044,Home & Kitchen,UrbanNest,16879.55,566,SUP021,2023-02-08,True,4.1
+PRD0045,PeakFit Sports Item 045,Sports,BrightLeaf,25911.95,492,SUP004,2026-09-23,False,4.2
+PRD0046,NovaTech Books Item 046,Books,Vertex,49872.71,531,SUP027,2024-07-15,False,4.3
+PRD0047,Aster Clothing Item 047,Clothing,PeakFit,34346.27,1307,SUP031,2024-01-08,True,4.6
+PRD0048,PureGlow Books Item 048,Books,UrbanNest,23590.97,529,SUP036,2022-01-19,True,4.1
+PRD0049,Aster Clothing Item 049,Clothing,PeakFit,37235.08,628,SUP027,2023-09-19,True,3.2
+PRD0050,Vertex Sports Item 050,Sports,UrbanNest,23578.77,1299,SUP038,2026-07-04,True,3.7
+PRD0051,UrbanNest Clothing Item 051,Clothing,Everyday Co.,26537.94,846,SUP004,2021-09-09,True,5.0
+PRD0052,Everyday Co. Beauty Item 052,Beauty,Vertex,7245.89,1465,SUP012,2020-11-27,False,3.3
+PRD0053,Aster Books Item 053,Books,NovaTech,334.2,560,SUP014,2021-11-21,True,3.7
+PRD0054,BrightLeaf Home Item 054,Home & Kitchen,Everyday Co.,31710.03,826,SUP028,2025-05-09,False,2.5
+PRD0055,Aster Clothing Item 055,Clothing,NovaTech,44610.12,1087,SUP013,2020-03-14,True,4.1
+PRD0056,PeakFit Clothing Item 056,Clothing,Aster,15672.4,210,SUP025,2025-08-23,True,2.9
+PRD0057,PureGlow Electronics Item 057,Electronics,PureGlow,22849.72,1065,SUP039,2025-11-16,True,3.6
+PRD0058,Aster Books Item 058,Books,Vertex,18025.62,385,SUP011,2024-07-10,True,3.1
+PRD0059,PeakFit Books Item 059,Books,NovaTech,29524.67,346,SUP008,2024-02-10,True,3.4
+PRD0060,NovaTech Sports Item 060,Sports,NovaTech,33131.3,1338,SUP002,2020-07-16,True,3.5
+PRD0061,UrbanNest Toys Item 061,Toys,PureGlow,23771.38,313,SUP014,2020-02-08,True,3.6
+PRD0062,PureGlow Home Item 062,Home & Kitchen,BrightLeaf,20998.41,214,SUP033,2021-04-27,True,2.8
+PRD0063,Vertex Home Item 063,Home & Kitchen,PeakFit,30488.19,538,SUP034,2022-04-06,True,4.3
+PRD0064,BrightLeaf Sports Item 064,Sports,NovaTech,27451.12,425,SUP031,2023-09-16,True,2.5
+PRD0065,UrbanNest Home Item 065,Home & Kitchen,Vertex,7541.31,184,SUP033,2020-11-03,True,4.8
+PRD0066,Vertex Clothing Item 066,Clothing,PureGlow,13278.84,102,SUP007,2021-12-16,True,4.6
+PRD0067,Aster Beauty Item 067,Beauty,Everyday Co.,36952.16,194,SUP003,2020-02-09,True,4.2
+PRD0068,Aster Books Item 068,Books,Aster,44735.93,1273,SUP018,2021-01-15,True,4.5
+PRD0069,UrbanNest Books Item 069,Books,Everyday Co.,20071.49,934,SUP018,2024-04-28,False,4.5
+PRD0070,UrbanNest Books Item 070,Books,BrightLeaf,34837.88,120,SUP011,2021-02-28,False,4.8
+PRD0071,Vertex Office Item 071,Office Supplies,BrightLeaf,30604.03,734,SUP040,2020-04-28,True,3.7
+PRD0072,UrbanNest Office Item 072,Office Supplies,Everyday Co.,22089.33,129,SUP017,2023-07-11,True,4.3
+PRD0073,Aster Clothing Item 073,Clothing,UrbanNest,21698.11,1488,SUP016,2025-05-27,True,4.2
+PRD0074,BrightLeaf Toys Item 074,Toys,NovaTech,680.08,321,SUP033,2025-04-06,False,4.7
+PRD0075,Vertex Home Item 075,Home & Kitchen,Aster,12119.5,569,SUP004,2025-09-07,True,3.9
+PRD0076,Everyday Co. Toys Item 076,Toys,PeakFit,4032.65,909,SUP037,2025-01-09,True,4.6
+PRD0077,Aster Office Item 077,Office Supplies,UrbanNest,49034.47,1338,SUP002,2021-02-24,False,3.5
+PRD0078,UrbanNest Electronics Item 078,Electronics,PureGlow,44515.53,1151,SUP014,2025-02-11,True,3.4
+PRD0079,PeakFit Electronics Item 079,Electronics,Vertex,16664.43,1269,SUP039,2025-04-21,True,4.3
+PRD0080,UrbanNest Home Item 080,Home & Kitchen,PeakFit,208.63,727,SUP019,2026-02-21,True,4.3
+PRD0081,BrightLeaf Electronics Item 081,Electronics,Vertex,7107.41,1468,SUP027,2021-03-14,True,4.0
+PRD0082,UrbanNest Clothing Item 082,Clothing,Everyday Co.,10856.92,390,SUP022,2021-03-17,False,2.6
+PRD0083,Vertex Home Item 083,Home & Kitchen,Vertex,32955.99,1032,SUP009,2025-08-05,True,3.8
+PRD0084,Everyday Co. Electronics Item 084,Electronics,Vertex,46225.11,362,SUP038,2021-12-12,True,2.8
+PRD0085,Everyday Co. Beauty Item 085,Beauty,Everyday Co.,48976.09,1418,SUP016,2023-01-25,False,4.9
+PRD0086,Vertex Sports Item 086,Sports,BrightLeaf,6994.18,1233,SUP033,2023-05-09,True,4.3
+PRD0087,PeakFit Clothing Item 087,Clothing,PeakFit,31244.96,595,SUP023,2021-06-27,True,3.8
+PRD0088,UrbanNest Beauty Item 088,Beauty,Aster,28156.78,1193,SUP037,2024-09-05,True,4.7
+PRD0089,NovaTech Toys Item 089,Toys,UrbanNest,1360.08,297,SUP004,2020-08-19,True,3.2
+PRD0090,PureGlow Books Item 090,Books,PureGlow,7405.78,127,SUP019,2022-04-15,True,3.4
+PRD0091,UrbanNest Office Item 091,Office Supplies,PeakFit,37145.4,1149,SUP025,2022-08-31,True,4.2
+PRD0092,Everyday Co. Electronics Item 092,Electronics,Everyday Co.,20885.66,1403,SUP021,2026-03-11,True,2.5
+PRD0093,PeakFit Sports Item 093,Sports,Vertex,41515.18,1297,SUP024,2026-08-07,True,4.4
+PRD0094,PureGlow Clothing Item 094,Clothing,Vertex,8952.55,1398,SUP005,2022-02-04,True,4.3
+PRD0095,Everyday Co. Home Item 095,Home & Kitchen,NovaTech,21481.54,1139,SUP017,2021-06-16,True,4.0
+PRD0096,NovaTech Sports Item 096,Sports,Aster,23368.93,317,SUP003,2021-09-21,True,4.0
+PRD0097,Vertex Sports Item 097,Sports,Aster,3735.75,1449,SUP021,2025-11-22,True,4.9
+PRD0098,BrightLeaf Home Item 098,Home & Kitchen,Everyday Co.,27198.7,826,SUP006,2023-12-02,True,4.7
+PRD0099,Aster Beauty Item 099,Beauty,Aster,14748.36,1266,SUP034,2025-04-29,True,2.8
+PRD0100,Vertex Beauty Item 100,Beauty,PeakFit,45233.37,1256,SUP040,2022-09-25,True,4.2
+PRD0101,Everyday Co. Beauty Item 101,Beauty,UrbanNest,19354.21,1106,SUP019,2020-04-11,True,3.8
+PRD0102,Vertex Office Item 102,Office Supplies,NovaTech,14891.06,1334,SUP013,2023-08-05,True,4.9
+PRD0103,NovaTech Books Item 103,Books,UrbanNest,10617.0,1289,SUP014,2024-10-03,True,3.0
+PRD0104,UrbanNest Toys Item 104,Toys,BrightLeaf,1284.27,1468,SUP022,2020-06-04,True,2.7
+PRD0105,PureGlow Books Item 105,Books,UrbanNest,28789.62,466,SUP017,2024-07-27,False,3.6
+PRD0106,Everyday Co. Toys Item 106,Toys,Aster,941.86,1378,SUP008,2025-12-30,True,4.1
+PRD0107,NovaTech Home Item 107,Home & Kitchen,UrbanNest,17948.24,1029,SUP007,2023-04-02,True,4.0
+PRD0108,Vertex Sports Item 108,Sports,Everyday Co.,19815.15,1353,SUP002,2025-04-25,True,3.8
+PRD0109,Everyday Co. Books Item 109,Books,PureGlow,48009.7,295,SUP020,2024-03-08,True,3.9
+PRD0110,UrbanNest Books Item 110,Books,NovaTech,349.99,1221,SUP026,2026-01-09,True,3.3
+PRD0111,PeakFit Beauty Item 111,Beauty,Everyday Co.,45289.84,1049,SUP010,2021-10-21,True,3.1
+PRD0112,PeakFit Sports Item 112,Sports,UrbanNest,9148.76,1161,SUP004,2026-02-26,False,4.1
+PRD0113,PureGlow Home Item 113,Home & Kitchen,UrbanNest,12608.31,404,SUP038,2025-06-18,True,3.4
+PRD0114,UrbanNest Clothing Item 114,Clothing,PureGlow,31012.84,396,SUP021,2025-06-13,False,3.3
+PRD0115,BrightLeaf Sports Item 115,Sports,Aster,40403.22,877,SUP011,2020-01-20,True,3.1
+PRD0116,Everyday Co. Clothing Item 116,Clothing,PureGlow,42020.49,275,SUP022,2025-05-19,False,3.6
+PRD0117,Vertex Sports Item 117,Sports,UrbanNest,8869.93,1242,SUP006,2023-02-23,True,4.7
+PRD0118,PureGlow Clothing Item 118,Clothing,UrbanNest,36397.53,38,SUP033,2020-05-07,False,4.4
+PRD0119,NovaTech Clothing Item 119,Clothing,PureGlow,27218.12,1105,SUP031,2021-08-31,True,3.5
+PRD0120,BrightLeaf Sports Item 120,Sports,Vertex,25105.05,185,SUP026,2024-01-30,True,4.2
+PRD0121,BrightLeaf Books Item 121,Books,Vertex,8044.2,1159,SUP037,2021-08-21,False,4.8
+PRD0122,PeakFit Electronics Item 122,Electronics,Vertex,11663.32,541,SUP024,2022-08-16,True,4.2
+PRD0123,Everyday Co. Beauty Item 123,Beauty,Vertex,45902.31,95,SUP003,2023-08-20,True,4.3
+PRD0124,PureGlow Sports Item 124,Sports,BrightLeaf,18894.31,775,SUP024,2026-08-04,True,3.8
+PRD0125,PeakFit Toys Item 125,Toys,Everyday Co.,17708.61,706,SUP032,2025-05-28,True,3.8
+PRD0126,Vertex Books Item 126,Books,BrightLeaf,11575.54,1053,SUP018,2022-05-16,True,3.0
+PRD0127,UrbanNest Beauty Item 127,Beauty,PeakFit,20788.22,676,SUP008,2025-05-26,False,3.7
+PRD0128,Everyday Co. Books Item 128,Books,NovaTech,12258.15,261,SUP037,2026-08-23,True,2.8
+PRD0129,BrightLeaf Electronics Item 129,Electronics,NovaTech,8399.43,368,SUP034,2024-07-18,True,4.7
+PRD0130,UrbanNest Sports Item 130,Sports,PeakFit,22514.25,965,SUP031,2021-11-29,True,4.6
+PRD0131,BrightLeaf Books Item 131,Books,PureGlow,8468.31,1404,SUP022,2025-01-31,True,3.1
+PRD0132,BrightLeaf Toys Item 132,Toys,UrbanNest,925.48,1070,SUP033,2024-09-15,True,4.0
+PRD0133,Vertex Books Item 133,Books,NovaTech,43898.86,1088,SUP033,2021-04-26,True,3.7
+PRD0134,NovaTech Books Item 134,Books,Everyday Co.,26149.01,758,SUP003,2025-12-10,False,3.1
+PRD0135,Everyday Co. Office Item 135,Office Supplies,Aster,29492.5,1426,SUP037,2021-02-04,False,2.8
+PRD0136,PeakFit Office Item 136,Office Supplies,UrbanNest,14234.01,1113,SUP027,2022-11-21,True,2.5
+PRD0137,UrbanNest Electronics Item 137,Electronics,NovaTech,18812.99,420,SUP021,2024-08-01,True,2.8
+PRD0138,PureGlow Toys Item 138,Toys,PureGlow,42762.35,867,SUP037,2024-02-06,True,5.0
+PRD0139,PeakFit Toys Item 139,Toys,Everyday Co.,27649.04,1141,SUP031,2022-01-02,True,3.9
+PRD0140,PureGlow Office Item 140,Office Supplies,PureGlow,28923.79,1444,SUP026,2021-07-19,True,4.4
+PRD0141,BrightLeaf Office Item 141,Office Supplies,UrbanNest,10800.46,820,SUP022,2026-03-05,True,2.9
+PRD0142,UrbanNest Electronics Item 142,Electronics,BrightLeaf,23635.27,1229,SUP028,2020-12-27,True,3.2
+PRD0143,UrbanNest Beauty Item 143,Beauty,NovaTech,36251.29,820,SUP040,2025-11-04,True,4.3
+PRD0144,BrightLeaf Electronics Item 144,Electronics,Vertex,22003.71,413,SUP034,2023-03-17,True,2.6
+PRD0145,BrightLeaf Clothing Item 145,Clothing,NovaTech,18050.03,1341,SUP001,2021-10-06,True,5.0
+PRD0146,Aster Toys Item 146,Toys,Everyday Co.,20331.0,410,SUP034,2020-03-03,True,4.8
+PRD0147,Aster Sports Item 147,Sports,Aster,48167.05,566,SUP015,2026-10-19,True,3.6
+PRD0148,NovaTech Toys Item 148,Toys,PureGlow,8833.24,1036,SUP007,2026-04-07,True,3.8
+PRD0149,UrbanNest Beauty Item 149,Beauty,PureGlow,43817.04,1177,SUP017,2024-12-18,False,3.9
+PRD0150,Aster Clothing Item 150,Clothing,Vertex,34110.57,1201,SUP002,2025-05-28,True,3.1
+PRD0151,PeakFit Toys Item 151,Toys,PeakFit,40027.05,844,SUP023,2025-10-16,True,4.3
+PRD0152,PeakFit Sports Item 152,Sports,PureGlow,4740.17,1379,SUP022,2020-11-07,True,3.7
+PRD0153,PeakFit Beauty Item 153,Beauty,PureGlow,9219.94,1399,SUP013,2025-08-05,True,3.1
+PRD0154,PureGlow Clothing Item 154,Clothing,PeakFit,11536.46,511,SUP040,2023-12-29,True,4.4
+PRD0155,UrbanNest Home Item 155,Home & Kitchen,Vertex,30728.97,1108,SUP003,2025-05-29,True,4.1
+PRD0156,PureGlow Office Item 156,Office Supplies,Vertex,9224.31,1046,SUP018,2024-06-17,True,4.4
+PRD0157,NovaTech Books Item 157,Books,Everyday Co.,23967.17,1107,SUP003,2025-08-20,True,3.5
+PRD0158,Vertex Books Item 158,Books,UrbanNest,34941.4,942,SUP021,2020-02-04,True,4.2
+PRD0159,UrbanNest Toys Item 159,Toys,Aster,18142.96,531,SUP012,2026-02-24,True,3.1
+PRD0160,Aster Office Item 160,Office Supplies,Aster,9276.29,868,SUP014,2024-09-12,True,3.4
+PRD0161,PureGlow Toys Item 161,Toys,Vertex,9075.47,268,SUP037,2022-07-25,True,4.3
+PRD0162,Everyday Co. Clothing Item 162,Clothing,Everyday Co.,9882.55,306,SUP031,2020-02-09,True,3.6
+PRD0163,Aster Books Item 163,Books,Vertex,15070.71,1151,SUP037,2020-07-14,False,2.7
+PRD0164,NovaTech Books Item 164,Books,PeakFit,40708.52,975,SUP007,2025-01-16,True,3.1
+PRD0165,PureGlow Beauty Item 165,Beauty,Aster,1088.78,248,SUP023,2026-10-16,True,3.9
+PRD0166,PureGlow Books Item 166,Books,Aster,16321.01,1045,SUP032,2025-01-04,True,3.5
+PRD0167,Vertex Sports Item 167,Sports,BrightLeaf,43425.06,1311,SUP022,2024-09-23,False,4.6
+PRD0168,UrbanNest Home Item 168,Home & Kitchen,BrightLeaf,17245.91,642,SUP021,2023-04-08,True,4.0
+PRD0169,PureGlow Toys Item 169,Toys,Vertex,39069.6,743,SUP038,2025-11-03,False,3.5
+PRD0170,NovaTech Books Item 170,Books,BrightLeaf,36414.84,1355,SUP017,2020-11-23,True,2.9
+PRD0171,UrbanNest Home Item 171,Home & Kitchen,UrbanNest,46845.0,969,SUP036,2020-08-08,True,4.4
+PRD0172,UrbanNest Home Item 172,Home & Kitchen,PureGlow,30942.3,172,SUP025,2023-06-21,True,3.1
+PRD0173,Vertex Sports Item 173,Sports,BrightLeaf,6649.73,349,SUP002,2020-05-23,True,4.7
+PRD0174,Vertex Beauty Item 174,Beauty,Vertex,48750.58,1107,SUP018,2026-02-24,False,2.8
+PRD0175,Vertex Books Item 175,Books,Everyday Co.,26219.64,1309,SUP035,2023-06-22,True,3.7
+PRD0176,UrbanNest Clothing Item 176,Clothing,Vertex,15461.62,844,SUP017,2021-09-29,True,2.5
+PRD0177,Aster Books Item 177,Books,PureGlow,23511.98,17,SUP032,2025-05-08,True,2.5
+PRD0178,PureGlow Toys Item 178,Toys,PeakFit,39857.69,1122,SUP024,2022-02-11,False,4.7
+PRD0179,Everyday Co. Toys Item 179,Toys,PeakFit,8246.15,1322,SUP025,2024-03-29,True,3.2
+PRD0180,PeakFit Toys Item 180,Toys,PureGlow,14304.38,1089,SUP018,2024-08-18,True,4.6
+PRD0181,BrightLeaf Books Item 181,Books,PureGlow,5605.78,932,SUP040,2025-01-28,True,4.3
+PRD0182,PeakFit Office Item 182,Office Supplies,Aster,1066.83,101,SUP035,2020-03-31,True,4.9
+PRD0183,PureGlow Sports Item 183,Sports,BrightLeaf,35787.28,1489,SUP001,2022-08-11,True,2.9
+PRD0184,PeakFit Office Item 184,Office Supplies,Aster,21069.13,1020,SUP024,2025-03-14,True,3.3
+PRD0185,NovaTech Books Item 185,Books,PureGlow,38804.08,146,SUP035,2025-04-09,True,3.0
+PRD0186,Everyday Co. Sports Item 186,Sports,NovaTech,6184.88,1463,SUP016,2024-04-25,False,3.1
+PRD0187,PeakFit Electronics Item 187,Electronics,Vertex,36791.61,192,SUP034,2022-05-03,False,3.5
+PRD0188,Aster Sports Item 188,Sports,BrightLeaf,31494.3,86,SUP036,2025-11-03,True,3.1
+PRD0189,PeakFit Sports Item 189,Sports,Aster,44386.23,1365,SUP014,2021-04-07,True,4.1
+PRD0190,NovaTech Beauty Item 190,Beauty,BrightLeaf,39739.08,1197,SUP008,2024-06-09,True,2.5
+PRD0191,Vertex Electronics Item 191,Electronics,BrightLeaf,18631.79,183,SUP016,2021-10-07,False,2.7
+PRD0192,NovaTech Beauty Item 192,Beauty,NovaTech,17839.33,315,SUP035,2021-03-15,True,3.7
+PRD0193,Aster Beauty Item 193,Beauty,Vertex,36685.12,43,SUP025,2024-01-07,True,3.1
+PRD0194,Vertex Electronics Item 194,Electronics,Vertex,27994.34,1111,SUP032,2022-02-16,True,3.9
+PRD0195,Vertex Beauty Item 195,Beauty,PureGlow,43395.33,1226,SUP036,2021-10-18,True,3.8
+PRD0196,PureGlow Office Item 196,Office Supplies,PureGlow,27125.14,929,SUP001,2025-09-03,False,4.3
+PRD0197,Aster Electronics Item 197,Electronics,PeakFit,16101.64,129,SUP035,2024-05-06,True,3.8
+PRD0198,BrightLeaf Office Item 198,Office Supplies,PureGlow,16196.74,1312,SUP021,2021-03-28,True,3.8
+PRD0199,NovaTech Home Item 199,Home & Kitchen,BrightLeaf,9013.08,64,SUP013,2021-03-14,False,3.0
+PRD0200,Everyday Co. Electronics Item 200,Electronics,Vertex,26337.49,1436,SUP038,2022-11-14,True,3.4

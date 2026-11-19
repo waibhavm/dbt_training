@@ -1,0 +1,9 @@
+functions_list:
+  - name: add_two_numbers
+    arguments: a INT, b INT
+    return_type: INT
+    body: a + b
+  - name: greet_user
+    arguments: name VARCHAR
+    return_type: VARCHAR
+    body: "'Hello, ' || name"

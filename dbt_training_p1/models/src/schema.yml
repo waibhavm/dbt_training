@@ -1,0 +1,59 @@
+models:
+  - name: src_hosts
+    description: "Source table for hosts data"
+    data_tests:
+      - min_row_count:
+          arguments:
+            value_count: 1
+    columns:
+      - name: host_id
+        description: '{{ doc("col1") }}'
+        data_tests: 
+          - not_null
+          - unique
+          - non_negative_values
+      - name: host_name
+        description: "Name of the host"
+      - name: is_superhost
+        description: "Indicates if the host is a superhost"
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['t', 'f']
+      - name: created_at
+        description: "Date when the host started hosting"
+      - name: updated_at
+        description: "Date when the host information was last updated"
+        
+
+  - name: src_listings
+    description: "Source table for listings data"
+    columns:
+      - name: listing_id
+        description: "Unique identifier for the listing"
+        data_tests:
+          - not_null
+          - unique
+      - name: listing_name
+        description: "Name of the listing"
+      - name: host_id
+        description: "Identifier for the host who owns the listing"
+      - name: price_str
+        description: "Price per night for the listing"
+
+  - name: src_reviews
+    description: "Source table for reviews data"
+    columns:
+      - name: listing_id
+        description: "Unique identifier for the listing"
+        data_tests:
+          - not_null
+          - unique
+      - name: review_date
+        description: "Date when the review was submitted"
+      - name: reviewer_name
+        description: "Name of the reviewer"
+      - name: review_text
+        description: "Text of the review"
+      - name: review_sentiment
+        description: "Sentiment of the review"

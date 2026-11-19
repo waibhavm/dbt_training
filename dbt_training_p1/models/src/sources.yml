@@ -1,0 +1,30 @@
+sources:
+  - name: raw_data_waibhav
+    database: raw_db
+    schema: raw_schema
+    description: "Raw Tables are stored in this database"
+    tables:
+      - name: hosts
+        identifier: raw_hosts
+        description: "Raw hosts data"
+        columns:
+          - name: id
+            description: "Unique identifier for each host"
+          - name: name
+            description: "Name of the host"
+          - name: is_superhost
+            description: "Indicates if the host is a superhost"
+      - name: listings
+        identifier: raw_listings
+        description: "Raw listings data"
+        config:
+          #loaded_at_field: "created_at"
+          loaded_at_query: |
+            SELECT MAX(created_at)::TIMESTAMP_TZ
+            FROM raw_db.raw_schema.raw_listings
+          freshness: 
+            warn_after: {count: 1, period: hour}
+            error_after: {count: 24, period: hour}
+      - name: reviews
+        identifier: raw_reviews
+        description: "Raw reviews data"

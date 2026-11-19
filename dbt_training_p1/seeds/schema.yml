@@ -1,0 +1,45 @@
+seeds:
+  - name: employee_details
+    description: "Seed data for employee details"
+    config:
+      alias: employee
+      quote_columns: false
+      column_types:
+        employee_id: string
+        first_name: string
+        last_name: string
+        email: string
+        department: string
+        job_title: string
+        salary_inr: integer
+        city: string
+        date_of_joining: date
+        employment_status: string
+    columns:
+      - name: employee_id
+        description: "Unique identifier for the employee"
+        data_tests:
+          - not_null
+          - unique
+      - name: first_name
+        description: "First name of the employee"
+      - name: last_name
+        description: "Last name of the employee"
+      - name: email
+        description: "Email address of the employee"
+      - name: department
+        description: "Department in which the employee works"
+      - name: job_title
+        description: "Job title of the employee"
+      - name: salary_inr
+        description: "Salary of the employee in INR"
+      - name: city
+        description: "City where the employee is located"
+      - name: date_of_joining
+        description: "Date when the employee joined the organization"
+      - name: employment_status
+        description: "Current status of the employee (e.g., Active, Inactive)"
+  
+  - name: product_details
+  - name: seed_full_moon_dates
+  - name: student_details

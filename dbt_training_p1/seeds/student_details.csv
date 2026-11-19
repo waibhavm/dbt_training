@@ -1,0 +1,201 @@
+student_id,first_name,last_name,email,course,institution,year_of_study,admission_year,gpa,city,student_status
+STU0001,Aisha,Iyer,aisha.iyer.stu1@example.com,Business Administration,Riverdale College,2,2025,7.0,Mumbai,Enrolled
+STU0002,Priya,Iyer,priya.iyer.stu2@example.com,Mechanical Engineering,Lakeside University,1,2025,6.89,Kolkata,Enrolled
+STU0003,Rohan,Iyer,rohan.iyer.stu3@example.com,Economics,Lakeside University,3,2020,5.58,Chennai,Enrolled
+STU0004,Kabir,Das,kabir.das.stu4@example.com,Electrical Engineering,Greenfield Institute,2,2026,6.2,Chennai,Enrolled
+STU0005,Dev,Verma,dev.verma.stu5@example.com,Statistics,Lakeside University,2,2019,8.19,Mumbai,Enrolled
+STU0006,Ananya,Mishra,ananya.mishra.stu6@example.com,Biotechnology,Northstar University,4,2021,7.14,Pune,Graduated
+STU0007,Nisha,Kumar,nisha.kumar.stu7@example.com,Electrical Engineering,Lakeside University,2,2026,6.89,Ahmedabad,Enrolled
+STU0008,Neha,Iyer,neha.iyer.stu8@example.com,Biotechnology,Riverdale College,4,2026,7.76,Kolkata,Enrolled
+STU0009,Kabir,Verma,kabir.verma.stu9@example.com,Business Administration,Northstar University,4,2021,9.43,Hyderabad,On Leave
+STU0010,Meera,Kumar,meera.kumar.stu10@example.com,Mechanical Engineering,Riverdale College,4,2020,9.57,Mumbai,Graduated
+STU0011,Ishaan,Pillai,ishaan.pillai.stu11@example.com,Biotechnology,Riverdale College,1,2022,7.37,Kolkata,On Leave
+STU0012,Neha,Singh,neha.singh.stu12@example.com,Data Science,Riverdale College,2,2025,5.63,Hyderabad,Enrolled
+STU0013,Rohan,Reddy,rohan.reddy.stu13@example.com,Business Administration,Summit Technical University,2,2019,8.91,Ahmedabad,Graduated
+STU0014,Nisha,Sharma,nisha.sharma.stu14@example.com,Computer Science,Riverdale College,2,2020,9.26,Kolkata,Enrolled
+STU0015,Priya,Singh,priya.singh.stu15@example.com,Data Science,Northstar University,2,2023,7.39,Ahmedabad,Enrolled
+STU0016,Meera,Mishra,meera.mishra.stu16@example.com,Computer Science,Lakeside University,2,2026,8.73,Chennai,Graduated
+STU0017,Aarav,Mehta,aarav.mehta.stu17@example.com,Electrical Engineering,Lakeside University,4,2024,6.34,Hyderabad,On Leave
+STU0018,Neha,Patel,neha.patel.stu18@example.com,Economics,Summit Technical University,1,2019,8.36,Delhi,Enrolled
+STU0019,Aarav,Das,aarav.das.stu19@example.com,Statistics,Greenfield Institute,1,2020,8.97,Delhi,Enrolled
+STU0020,Diya,Das,diya.das.stu20@example.com,Mechanical Engineering,Summit Technical University,4,2024,8.34,Mumbai,Enrolled
+STU0021,Rahul,Sharma,rahul.sharma.stu21@example.com,Electrical Engineering,Northstar University,2,2023,9.49,Delhi,Enrolled
+STU0022,Dev,Gupta,dev.gupta.stu22@example.com,Business Administration,Northstar University,2,2026,6.79,Bengaluru,Enrolled
+STU0023,Arjun,Patel,arjun.patel.stu23@example.com,Economics,Summit Technical University,4,2024,9.53,Kolkata,Enrolled
+STU0024,Ananya,Nair,ananya.nair.stu24@example.com,Statistics,Lakeside University,3,2026,9.11,Kolkata,Enrolled
+STU0025,Kavya,Mehta,kavya.mehta.stu25@example.com,Business Administration,Riverdale College,1,2021,5.86,Chennai,Enrolled
+STU0026,Rahul,Mehta,rahul.mehta.stu26@example.com,Mechanical Engineering,Summit Technical University,3,2025,7.51,Delhi,On Leave
+STU0027,Kavya,Kumar,kavya.kumar.stu27@example.com,Data Science,Summit Technical University,3,2019,7.81,Mumbai,Enrolled
+STU0028,Rohan,Mishra,rohan.mishra.stu28@example.com,Computer Science,Greenfield Institute,1,2026,6.56,Delhi,Enrolled
+STU0029,Aditya,Mehta,aditya.mehta.stu29@example.com,Mechanical Engineering,Summit Technical University,3,2019,7.17,Hyderabad,On Leave
+STU0030,Rohan,Joshi,rohan.joshi.stu30@example.com,Economics,Riverdale College,3,2024,6.62,Hyderabad,Enrolled
+STU0031,Ananya,Nair,ananya.nair.stu31@example.com,Data Science,Riverdale College,3,2025,8.67,Pune,On Leave
+STU0032,Priya,Khan,priya.khan.stu32@example.com,Electrical Engineering,Northstar University,2,2026,9.34,Ahmedabad,Enrolled
+STU0033,Rahul,Patel,rahul.patel.stu33@example.com,Statistics,Northstar University,3,2024,9.51,Mumbai,Enrolled
+STU0034,Neha,Joshi,neha.joshi.stu34@example.com,Data Science,Greenfield Institute,2,2022,6.57,Ahmedabad,Enrolled
+STU0035,Neha,Joshi,neha.joshi.stu35@example.com,Biotechnology,Lakeside University,2,2024,8.25,Hyderabad,Enrolled
+STU0036,Priya,Gupta,priya.gupta.stu36@example.com,Economics,Summit Technical University,1,2026,6.06,Delhi,Enrolled
+STU0037,Rahul,Nair,rahul.nair.stu37@example.com,Mechanical Engineering,Lakeside University,2,2024,8.96,Mumbai,Graduated
+STU0038,Dev,Pillai,dev.pillai.stu38@example.com,Data Science,Lakeside University,2,2019,6.87,Mumbai,Enrolled
+STU0039,Sana,Das,sana.das.stu39@example.com,Data Science,Riverdale College,2,2023,8.36,Chennai,Enrolled
+STU0040,Priya,Mehta,priya.mehta.stu40@example.com,Mechanical Engineering,Lakeside University,2,2020,6.27,Delhi,On Leave
+STU0041,Diya,Mishra,diya.mishra.stu41@example.com,Data Science,Northstar University,3,2019,8.43,Kolkata,On Leave
+STU0042,Aarav,Nair,aarav.nair.stu42@example.com,Business Administration,Summit Technical University,2,2023,9.12,Kolkata,Enrolled
+STU0043,Rahul,Patel,rahul.patel.stu43@example.com,Mechanical Engineering,Summit Technical University,4,2019,7.68,Pune,Enrolled
+STU0044,Nisha,Reddy,nisha.reddy.stu44@example.com,Statistics,Riverdale College,4,2024,6.09,Delhi,On Leave
+STU0045,Aisha,Patel,aisha.patel.stu45@example.com,Electrical Engineering,Summit Technical University,1,2024,6.7,Pune,Enrolled
+STU0046,Meera,Sharma,meera.sharma.stu46@example.com,Economics,Lakeside University,4,2023,6.62,Mumbai,Enrolled
+STU0047,Karan,Khan,karan.khan.stu47@example.com,Electrical Engineering,Greenfield Institute,4,2024,9.98,Ahmedabad,Graduated
+STU0048,Priya,Nair,priya.nair.stu48@example.com,Data Science,Summit Technical University,4,2019,9.85,Pune,On Leave
+STU0049,Neha,Sharma,neha.sharma.stu49@example.com,Business Administration,Summit Technical University,4,2019,6.79,Bengaluru,Enrolled
+STU0050,Kavya,Reddy,kavya.reddy.stu50@example.com,Statistics,Summit Technical University,3,2023,5.7,Bengaluru,On Leave
+STU0051,Aisha,Singh,aisha.singh.stu51@example.com,Business Administration,Northstar University,4,2024,7.77,Chennai,On Leave
+STU0052,Nisha,Patel,nisha.patel.stu52@example.com,Data Science,Summit Technical University,3,2021,9.08,Delhi,On Leave
+STU0053,Neha,Verma,neha.verma.stu53@example.com,Electrical Engineering,Lakeside University,4,2021,7.75,Bengaluru,Enrolled
+STU0054,Rohan,Khan,rohan.khan.stu54@example.com,Biotechnology,Lakeside University,4,2024,6.17,Mumbai,Enrolled
+STU0055,Nisha,Das,nisha.das.stu55@example.com,Economics,Lakeside University,3,2021,8.17,Ahmedabad,On Leave
+STU0056,Priya,Nair,priya.nair.stu56@example.com,Statistics,Riverdale College,1,2019,9.91,Chennai,Enrolled
+STU0057,Nisha,Nair,nisha.nair.stu57@example.com,Electrical Engineering,Northstar University,4,2023,6.27,Kolkata,Enrolled
+STU0058,Sana,Sharma,sana.sharma.stu58@example.com,Electrical Engineering,Northstar University,4,2020,6.91,Mumbai,Graduated
+STU0059,Kabir,Gupta,kabir.gupta.stu59@example.com,Computer Science,Greenfield Institute,2,2026,8.02,Ahmedabad,On Leave
+STU0060,Aditya,Das,aditya.das.stu60@example.com,Biotechnology,Lakeside University,3,2021,7.96,Chennai,On Leave
+STU0061,Simran,Singh,simran.singh.stu61@example.com,Business Administration,Lakeside University,3,2022,6.51,Chennai,Enrolled
+STU0062,Kabir,Khan,kabir.khan.stu62@example.com,Statistics,Summit Technical University,3,2026,8.02,Chennai,Enrolled
+STU0063,Meera,Mehta,meera.mehta.stu63@example.com,Economics,Riverdale College,2,2025,6.81,Chennai,Enrolled
+STU0064,Neha,Pillai,neha.pillai.stu64@example.com,Business Administration,Summit Technical University,2,2026,6.41,Chennai,On Leave
+STU0065,Arjun,Reddy,arjun.reddy.stu65@example.com,Electrical Engineering,Greenfield Institute,1,2020,8.51,Pune,Enrolled
+STU0066,Diya,Patel,diya.patel.stu66@example.com,Statistics,Summit Technical University,1,2025,8.57,Mumbai,Enrolled
+STU0067,Aisha,Pillai,aisha.pillai.stu67@example.com,Economics,Summit Technical University,4,2021,8.43,Chennai,Enrolled
+STU0068,Priya,Iyer,priya.iyer.stu68@example.com,Data Science,Lakeside University,2,2019,7.91,Bengaluru,Enrolled
+STU0069,Kavya,Pillai,kavya.pillai.stu69@example.com,Computer Science,Summit Technical University,4,2021,6.34,Chennai,Enrolled
+STU0070,Aarav,Kumar,aarav.kumar.stu70@example.com,Statistics,Riverdale College,4,2020,9.95,Ahmedabad,Enrolled
+STU0071,Dev,Nair,dev.nair.stu71@example.com,Electrical Engineering,Northstar University,3,2023,6.23,Ahmedabad,Enrolled
+STU0072,Ananya,Sharma,ananya.sharma.stu72@example.com,Business Administration,Lakeside University,2,2024,6.29,Kolkata,Graduated
+STU0073,Dev,Das,dev.das.stu73@example.com,Economics,Northstar University,2,2020,9.92,Ahmedabad,Enrolled
+STU0074,Sana,Sharma,sana.sharma.stu74@example.com,Economics,Greenfield Institute,4,2023,8.89,Delhi,Enrolled
+STU0075,Karan,Khan,karan.khan.stu75@example.com,Business Administration,Riverdale College,2,2019,5.78,Hyderabad,Graduated
+STU0076,Priya,Reddy,priya.reddy.stu76@example.com,Business Administration,Northstar University,3,2025,7.15,Pune,Enrolled
+STU0077,Rohan,Nair,rohan.nair.stu77@example.com,Biotechnology,Lakeside University,3,2021,7.37,Ahmedabad,On Leave
+STU0078,Kabir,Verma,kabir.verma.stu78@example.com,Data Science,Lakeside University,4,2022,7.88,Delhi,Enrolled
+STU0079,Karan,Patel,karan.patel.stu79@example.com,Electrical Engineering,Lakeside University,2,2019,6.24,Ahmedabad,Enrolled
+STU0080,Kabir,Khan,kabir.khan.stu80@example.com,Data Science,Lakeside University,4,2026,9.14,Ahmedabad,Enrolled
+STU0081,Dev,Gupta,dev.gupta.stu81@example.com,Computer Science,Lakeside University,4,2026,8.53,Chennai,Enrolled
+STU0082,Aditya,Kumar,aditya.kumar.stu82@example.com,Electrical Engineering,Lakeside University,1,2019,5.7,Delhi,Enrolled
+STU0083,Aisha,Sharma,aisha.sharma.stu83@example.com,Biotechnology,Northstar University,3,2020,7.34,Mumbai,Graduated
+STU0084,Neha,Pillai,neha.pillai.stu84@example.com,Biotechnology,Summit Technical University,4,2025,5.86,Mumbai,Enrolled
+STU0085,Meera,Reddy,meera.reddy.stu85@example.com,Mechanical Engineering,Greenfield Institute,1,2025,8.9,Chennai,Graduated
+STU0086,Aisha,Gupta,aisha.gupta.stu86@example.com,Electrical Engineering,Greenfield Institute,4,2025,7.06,Chennai,Enrolled
+STU0087,Meera,Sharma,meera.sharma.stu87@example.com,Computer Science,Greenfield Institute,2,2025,5.8,Bengaluru,Graduated
+STU0088,Nisha,Iyer,nisha.iyer.stu88@example.com,Electrical Engineering,Northstar University,4,2019,7.48,Pune,Enrolled
+STU0089,Rohan,Joshi,rohan.joshi.stu89@example.com,Electrical Engineering,Lakeside University,3,2023,8.1,Delhi,Enrolled
+STU0090,Priya,Pillai,priya.pillai.stu90@example.com,Electrical Engineering,Summit Technical University,3,2021,6.74,Mumbai,Graduated
+STU0091,Aisha,Nair,aisha.nair.stu91@example.com,Statistics,Summit Technical University,3,2019,8.63,Kolkata,Enrolled
+STU0092,Priya,Gupta,priya.gupta.stu92@example.com,Biotechnology,Greenfield Institute,2,2021,6.85,Mumbai,Graduated
+STU0093,Diya,Joshi,diya.joshi.stu93@example.com,Economics,Lakeside University,2,2025,7.25,Chennai,Enrolled
+STU0094,Vikram,Iyer,vikram.iyer.stu94@example.com,Biotechnology,Riverdale College,1,2020,7.91,Pune,Enrolled
+STU0095,Arjun,Gupta,arjun.gupta.stu95@example.com,Data Science,Greenfield Institute,2,2019,7.66,Delhi,Enrolled
+STU0096,Aarav,Singh,aarav.singh.stu96@example.com,Data Science,Summit Technical University,2,2022,8.63,Pune,Graduated
+STU0097,Sana,Joshi,sana.joshi.stu97@example.com,Business Administration,Summit Technical University,4,2024,7.9,Delhi,Enrolled
+STU0098,Arjun,Das,arjun.das.stu98@example.com,Biotechnology,Northstar University,4,2026,8.93,Delhi,Enrolled
+STU0099,Neha,Das,neha.das.stu99@example.com,Computer Science,Lakeside University,2,2025,8.84,Bengaluru,Enrolled
+STU0100,Aisha,Pillai,aisha.pillai.stu100@example.com,Business Administration,Greenfield Institute,2,2025,6.98,Kolkata,On Leave
+STU0101,Sana,Nair,sana.nair.stu101@example.com,Business Administration,Summit Technical University,4,2024,7.57,Delhi,Enrolled
+STU0102,Rohan,Khan,rohan.khan.stu102@example.com,Mechanical Engineering,Lakeside University,1,2026,7.86,Hyderabad,Enrolled
+STU0103,Aarav,Gupta,aarav.gupta.stu103@example.com,Electrical Engineering,Northstar University,2,2021,5.54,Ahmedabad,Enrolled
+STU0104,Diya,Mehta,diya.mehta.stu104@example.com,Biotechnology,Northstar University,1,2026,7.89,Kolkata,Enrolled
+STU0105,Aarav,Joshi,aarav.joshi.stu105@example.com,Business Administration,Northstar University,4,2023,9.13,Mumbai,Enrolled
+STU0106,Meera,Joshi,meera.joshi.stu106@example.com,Electrical Engineering,Greenfield Institute,3,2021,9.17,Chennai,Graduated
+STU0107,Ishaan,Das,ishaan.das.stu107@example.com,Biotechnology,Lakeside University,2,2025,9.96,Pune,Enrolled
+STU0108,Ishaan,Iyer,ishaan.iyer.stu108@example.com,Data Science,Summit Technical University,4,2019,7.2,Ahmedabad,Enrolled
+STU0109,Aarav,Khan,aarav.khan.stu109@example.com,Data Science,Summit Technical University,4,2021,8.4,Delhi,On Leave
+STU0110,Meera,Pillai,meera.pillai.stu110@example.com,Electrical Engineering,Greenfield Institute,4,2019,6.72,Hyderabad,Enrolled
+STU0111,Aisha,Mehta,aisha.mehta.stu111@example.com,Mechanical Engineering,Riverdale College,1,2019,9.83,Mumbai,Graduated
+STU0112,Ishaan,Kumar,ishaan.kumar.stu112@example.com,Electrical Engineering,Lakeside University,4,2021,8.55,Delhi,Graduated
+STU0113,Rohan,Verma,rohan.verma.stu113@example.com,Statistics,Northstar University,1,2020,7.47,Hyderabad,Enrolled
+STU0114,Nisha,Verma,nisha.verma.stu114@example.com,Statistics,Northstar University,3,2025,9.03,Ahmedabad,Graduated
+STU0115,Sana,Das,sana.das.stu115@example.com,Economics,Greenfield Institute,4,2025,5.89,Chennai,Enrolled
+STU0116,Ishaan,Patel,ishaan.patel.stu116@example.com,Mechanical Engineering,Summit Technical University,2,2023,8.83,Delhi,Enrolled
+STU0117,Meera,Patel,meera.patel.stu117@example.com,Business Administration,Summit Technical University,3,2019,8.93,Hyderabad,Enrolled
+STU0118,Ishaan,Reddy,ishaan.reddy.stu118@example.com,Biotechnology,Lakeside University,4,2025,5.96,Hyderabad,Enrolled
+STU0119,Aisha,Patel,aisha.patel.stu119@example.com,Economics,Northstar University,3,2024,7.36,Hyderabad,On Leave
+STU0120,Sana,Mehta,sana.mehta.stu120@example.com,Economics,Greenfield Institute,2,2021,6.71,Chennai,Graduated
+STU0121,Rohan,Patel,rohan.patel.stu121@example.com,Economics,Riverdale College,4,2021,6.85,Hyderabad,Enrolled
+STU0122,Arjun,Singh,arjun.singh.stu122@example.com,Electrical Engineering,Summit Technical University,1,2026,6.11,Bengaluru,Graduated
+STU0123,Vikram,Mishra,vikram.mishra.stu123@example.com,Statistics,Summit Technical University,3,2025,7.44,Mumbai,Enrolled
+STU0124,Vikram,Mehta,vikram.mehta.stu124@example.com,Biotechnology,Riverdale College,2,2022,9.84,Delhi,Enrolled
+STU0125,Simran,Mehta,simran.mehta.stu125@example.com,Statistics,Summit Technical University,3,2022,9.17,Kolkata,Enrolled
+STU0126,Meera,Pillai,meera.pillai.stu126@example.com,Mechanical Engineering,Lakeside University,1,2022,9.79,Ahmedabad,Enrolled
+STU0127,Rahul,Verma,rahul.verma.stu127@example.com,Data Science,Summit Technical University,4,2023,6.13,Chennai,Enrolled
+STU0128,Arjun,Iyer,arjun.iyer.stu128@example.com,Economics,Summit Technical University,1,2021,7.52,Ahmedabad,On Leave
+STU0129,Aditya,Joshi,aditya.joshi.stu129@example.com,Computer Science,Riverdale College,1,2025,5.99,Pune,Enrolled
+STU0130,Ananya,Iyer,ananya.iyer.stu130@example.com,Economics,Riverdale College,4,2019,5.98,Hyderabad,Enrolled
+STU0131,Sana,Joshi,sana.joshi.stu131@example.com,Biotechnology,Riverdale College,4,2022,7.58,Mumbai,Enrolled
+STU0132,Aarav,Nair,aarav.nair.stu132@example.com,Business Administration,Summit Technical University,1,2020,6.02,Mumbai,Enrolled
+STU0133,Priya,Das,priya.das.stu133@example.com,Electrical Engineering,Lakeside University,4,2026,7.07,Hyderabad,Graduated
+STU0134,Rahul,Das,rahul.das.stu134@example.com,Business Administration,Northstar University,1,2020,5.6,Delhi,Enrolled
+STU0135,Ananya,Pillai,ananya.pillai.stu135@example.com,Mechanical Engineering,Lakeside University,2,2022,6.99,Kolkata,Graduated
+STU0136,Sana,Verma,sana.verma.stu136@example.com,Mechanical Engineering,Greenfield Institute,4,2025,7.28,Pune,Graduated
+STU0137,Karan,Gupta,karan.gupta.stu137@example.com,Computer Science,Greenfield Institute,2,2025,6.75,Hyderabad,On Leave
+STU0138,Meera,Verma,meera.verma.stu138@example.com,Statistics,Riverdale College,2,2021,7.56,Chennai,Graduated
+STU0139,Dev,Iyer,dev.iyer.stu139@example.com,Economics,Lakeside University,4,2024,8.14,Delhi,Enrolled
+STU0140,Rahul,Mehta,rahul.mehta.stu140@example.com,Business Administration,Lakeside University,1,2021,8.52,Delhi,Enrolled
+STU0141,Sana,Kumar,sana.kumar.stu141@example.com,Mechanical Engineering,Riverdale College,2,2020,7.8,Kolkata,On Leave
+STU0142,Rohan,Mehta,rohan.mehta.stu142@example.com,Economics,Greenfield Institute,4,2025,8.36,Mumbai,On Leave
+STU0143,Ananya,Nair,ananya.nair.stu143@example.com,Mechanical Engineering,Greenfield Institute,3,2023,9.29,Bengaluru,Enrolled
+STU0144,Aarav,Nair,aarav.nair.stu144@example.com,Electrical Engineering,Summit Technical University,4,2021,7.34,Ahmedabad,Graduated
+STU0145,Rahul,Nair,rahul.nair.stu145@example.com,Data Science,Lakeside University,1,2021,9.08,Pune,Enrolled
+STU0146,Diya,Kumar,diya.kumar.stu146@example.com,Business Administration,Greenfield Institute,4,2022,8.05,Ahmedabad,On Leave
+STU0147,Dev,Patel,dev.patel.stu147@example.com,Business Administration,Lakeside University,3,2020,7.94,Bengaluru,Graduated
+STU0148,Aisha,Singh,aisha.singh.stu148@example.com,Data Science,Greenfield Institute,3,2025,9.44,Bengaluru,Graduated
+STU0149,Arjun,Das,arjun.das.stu149@example.com,Biotechnology,Northstar University,2,2020,6.44,Delhi,On Leave
+STU0150,Kavya,Reddy,kavya.reddy.stu150@example.com,Electrical Engineering,Greenfield Institute,1,2021,8.07,Chennai,On Leave
+STU0151,Aisha,Reddy,aisha.reddy.stu151@example.com,Business Administration,Riverdale College,3,2024,9.79,Hyderabad,Enrolled
+STU0152,Kavya,Pillai,kavya.pillai.stu152@example.com,Business Administration,Greenfield Institute,2,2019,6.62,Delhi,Enrolled
+STU0153,Aditya,Nair,aditya.nair.stu153@example.com,Business Administration,Summit Technical University,4,2021,7.53,Hyderabad,Graduated
+STU0154,Dev,Khan,dev.khan.stu154@example.com,Statistics,Summit Technical University,4,2023,6.97,Bengaluru,Enrolled
+STU0155,Rahul,Iyer,rahul.iyer.stu155@example.com,Data Science,Lakeside University,4,2024,6.48,Kolkata,Enrolled
+STU0156,Simran,Kumar,simran.kumar.stu156@example.com,Business Administration,Riverdale College,2,2024,8.05,Ahmedabad,Enrolled
+STU0157,Diya,Sharma,diya.sharma.stu157@example.com,Biotechnology,Northstar University,1,2020,9.68,Mumbai,Graduated
+STU0158,Rahul,Sharma,rahul.sharma.stu158@example.com,Electrical Engineering,Greenfield Institute,3,2025,6.22,Chennai,Enrolled
+STU0159,Neha,Kumar,neha.kumar.stu159@example.com,Statistics,Greenfield Institute,1,2020,7.28,Chennai,Enrolled
+STU0160,Kavya,Iyer,kavya.iyer.stu160@example.com,Data Science,Northstar University,2,2020,7.65,Mumbai,On Leave
+STU0161,Sana,Joshi,sana.joshi.stu161@example.com,Computer Science,Northstar University,3,2026,9.18,Kolkata,Enrolled
+STU0162,Simran,Patel,simran.patel.stu162@example.com,Economics,Northstar University,1,2022,5.96,Delhi,Enrolled
+STU0163,Rohan,Gupta,rohan.gupta.stu163@example.com,Mechanical Engineering,Northstar University,1,2021,8.25,Mumbai,Graduated
+STU0164,Neha,Khan,neha.khan.stu164@example.com,Mechanical Engineering,Summit Technical University,4,2022,9.37,Hyderabad,Enrolled
+STU0165,Rohan,Verma,rohan.verma.stu165@example.com,Economics,Riverdale College,4,2020,6.92,Mumbai,Enrolled
+STU0166,Arjun,Iyer,arjun.iyer.stu166@example.com,Electrical Engineering,Lakeside University,3,2020,9.01,Bengaluru,Enrolled
+STU0167,Kabir,Joshi,kabir.joshi.stu167@example.com,Economics,Riverdale College,1,2022,9.03,Pune,Graduated
+STU0168,Aditya,Patel,aditya.patel.stu168@example.com,Biotechnology,Lakeside University,1,2022,7.88,Bengaluru,Enrolled
+STU0169,Vikram,Reddy,vikram.reddy.stu169@example.com,Economics,Riverdale College,2,2025,8.93,Hyderabad,Enrolled
+STU0170,Karan,Patel,karan.patel.stu170@example.com,Business Administration,Greenfield Institute,1,2019,9.65,Kolkata,On Leave
+STU0171,Priya,Iyer,priya.iyer.stu171@example.com,Economics,Summit Technical University,1,2025,8.38,Mumbai,Enrolled
+STU0172,Ishaan,Kumar,ishaan.kumar.stu172@example.com,Electrical Engineering,Greenfield Institute,3,2020,7.26,Hyderabad,Enrolled
+STU0173,Kavya,Khan,kavya.khan.stu173@example.com,Computer Science,Greenfield Institute,1,2022,9.66,Hyderabad,Graduated
+STU0174,Nisha,Mehta,nisha.mehta.stu174@example.com,Business Administration,Greenfield Institute,1,2019,5.56,Mumbai,Enrolled
+STU0175,Ananya,Nair,ananya.nair.stu175@example.com,Business Administration,Greenfield Institute,3,2024,6.07,Chennai,Enrolled
+STU0176,Aarav,Das,aarav.das.stu176@example.com,Business Administration,Lakeside University,1,2025,6.68,Hyderabad,Graduated
+STU0177,Rahul,Joshi,rahul.joshi.stu177@example.com,Computer Science,Summit Technical University,2,2024,7.15,Chennai,Enrolled
+STU0178,Karan,Iyer,karan.iyer.stu178@example.com,Electrical Engineering,Lakeside University,1,2020,5.7,Bengaluru,Enrolled
+STU0179,Diya,Nair,diya.nair.stu179@example.com,Economics,Greenfield Institute,2,2024,9.69,Bengaluru,On Leave
+STU0180,Kavya,Singh,kavya.singh.stu180@example.com,Electrical Engineering,Summit Technical University,3,2024,6.72,Hyderabad,On Leave
+STU0181,Neha,Patel,neha.patel.stu181@example.com,Mechanical Engineering,Greenfield Institute,1,2019,9.79,Hyderabad,Graduated
+STU0182,Priya,Verma,priya.verma.stu182@example.com,Statistics,Northstar University,4,2023,5.54,Pune,Enrolled
+STU0183,Karan,Verma,karan.verma.stu183@example.com,Electrical Engineering,Summit Technical University,3,2023,8.16,Ahmedabad,Enrolled
+STU0184,Aisha,Verma,aisha.verma.stu184@example.com,Mechanical Engineering,Northstar University,4,2022,5.61,Delhi,Enrolled
+STU0185,Vikram,Sharma,vikram.sharma.stu185@example.com,Business Administration,Northstar University,2,2025,7.88,Pune,Graduated
+STU0186,Simran,Sharma,simran.sharma.stu186@example.com,Business Administration,Northstar University,1,2021,9.65,Kolkata,Enrolled
+STU0187,Rahul,Khan,rahul.khan.stu187@example.com,Data Science,Lakeside University,2,2020,8.37,Kolkata,Enrolled
+STU0188,Karan,Mehta,karan.mehta.stu188@example.com,Economics,Greenfield Institute,2,2019,6.81,Delhi,Graduated
+STU0189,Vikram,Das,vikram.das.stu189@example.com,Business Administration,Greenfield Institute,1,2026,9.75,Mumbai,On Leave
+STU0190,Meera,Reddy,meera.reddy.stu190@example.com,Mechanical Engineering,Summit Technical University,4,2020,6.91,Hyderabad,On Leave
+STU0191,Neha,Verma,neha.verma.stu191@example.com,Biotechnology,Riverdale College,4,2022,6.69,Hyderabad,Enrolled
+STU0192,Ananya,Verma,ananya.verma.stu192@example.com,Computer Science,Greenfield Institute,3,2023,6.17,Pune,Enrolled
+STU0193,Aditya,Joshi,aditya.joshi.stu193@example.com,Business Administration,Riverdale College,2,2019,5.64,Kolkata,Graduated
+STU0194,Aisha,Khan,aisha.khan.stu194@example.com,Data Science,Summit Technical University,1,2022,9.12,Mumbai,Enrolled
+STU0195,Aarav,Sharma,aarav.sharma.stu195@example.com,Mechanical Engineering,Greenfield Institute,4,2022,7.18,Hyderabad,On Leave
+STU0196,Karan,Kumar,karan.kumar.stu196@example.com,Computer Science,Northstar University,2,2020,9.56,Ahmedabad,Enrolled
+STU0197,Ishaan,Pillai,ishaan.pillai.stu197@example.com,Data Science,Northstar University,4,2024,5.73,Kolkata,Graduated
+STU0198,Simran,Sharma,simran.sharma.stu198@example.com,Economics,Greenfield Institute,3,2025,6.47,Mumbai,Enrolled
+STU0199,Arjun,Nair,arjun.nair.stu199@example.com,Computer Science,Lakeside University,2,2021,8.41,Ahmedabad,Graduated
+STU0200,Aisha,Nair,aisha.nair.stu200@example.com,Data Science,Riverdale College,4,2019,6.12,Pune,On Leave

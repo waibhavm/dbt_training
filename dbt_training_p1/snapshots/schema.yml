@@ -1,0 +1,16 @@
+snapshots:
+  - name : ss_4_timestamp_hard_delete_open_end_dates
+    relation : ref('dim_hosts_cleansed')
+    config : 
+      unique_key: [HOST_ID]
+      strategy: timestamp
+      updated_at: CREATED_AT
+      hard_deletes: invalidate
+      dbt_valid_to_current : "to_date('9999-12-31')"
+      schema : 'snapshots'
+      snapshot_meta_column_names:  
+        dbt_scd_id: hash_id
+        dbt_updated_at: updated_ts
+        dbt_valid_from: validity_start
+        dbt_valid_to: validity_end
+      enabled: true

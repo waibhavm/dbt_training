@@ -1,0 +1,60 @@
+exposures:
+  - name: executive_dashboard
+    type: dashboard
+    label: "Executive Dashboard"
+    maturity: low
+    url: https://app.powerbi.com/dashboard
+    owner:
+      name: Waibhav
+      email: waibhav.it@gmail.com
+    depends_on:
+      - ref('dim_hosts_cleansed')
+      - ref('dim_listings_cleansed')
+
+  - name: executive_dashboard2
+    type: analysis
+    label: "Executive Dashboard"
+    maturity: low
+    url: https://app.powerbi.com/dashboard
+    owner:
+      name: Waibhav
+      email: waibhav.it@gmail.com
+    depends_on:
+      - ref('dim_hosts_cleansed')
+      - ref('dim_listings_cleansed')
+
+  - name: executive_dashboard3
+    type: notebook
+    label: "Executive Dashboard"
+    maturity: low
+    url: https://app.powerbi.com/dashboard
+    owner:
+      name: Waibhav
+      email: waibhav.it@gmail.com
+    depends_on:
+      - ref('dim_hosts_cleansed')
+      - ref('dim_listings_cleansed')
+
+  - name: executive_dashboard4
+    type: ml
+    label: "Executive Dashboard"
+    maturity: low
+    url: https://app.powerbi.com/dashboard
+    owner:
+      name: Waibhav
+      email: waibhav.it@gmail.com
+    depends_on:
+      - ref('dim_hosts_cleansed')
+      - ref('dim_listings_cleansed')
+
+  - name: executive_dashboard5
+    type: application
+    label: "Executive Dashboard"
+    maturity: low
+    url: https://app.powerbi.com/dashboard
+    owner:
+      name: Waibhav
+      email: waibhav.it@gmail.com
+    depends_on:
+      - ref('dim_hosts_cleansed')
+      - ref('dim_listings_cleansed')

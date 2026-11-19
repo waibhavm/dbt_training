@@ -1,0 +1,27 @@
+models:
+
+ 
+
+  - name: dim_hosts_cleansed
+    description: "abc"
+    data_tests:
+      - min_row_count:
+          arguments:
+            value_count: 1
+    columns: 
+      - name: host_id
+        description: "abc"
+        data_tests:
+          - unique
+          - not_null
+          - relationships: 
+              arguments:
+                to: ref('src_hosts')
+                field: host_id
+      - name: is_superhost
+        description: "abc"
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [t, f]
+                quote: true
